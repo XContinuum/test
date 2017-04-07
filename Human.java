@@ -10,4 +10,11 @@ public class Human
   {
     this.yellow=10;
   }
+
+  public void hello()
+  {
+
+
+    //
+  }
 }
