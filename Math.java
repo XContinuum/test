@@ -1,4 +1,4 @@
-public class Matrix
+public class Math
 {
    private int[][] data;
    private int rank;
